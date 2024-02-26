@@ -1,0 +1,7 @@
+D:\c#练习项目\EventExample\EventExample2\bin\Debug\EventExample2.exe.config
+D:\c#练习项目\EventExample\EventExample2\bin\Debug\EventExample2.exe
+D:\c#练习项目\EventExample\EventExample2\bin\Debug\EventExample2.pdb
+D:\c#练习项目\EventExample\EventExample2\obj\Debug\EventExample2.csproj.AssemblyReference.cache
+D:\c#练习项目\EventExample\EventExample2\obj\Debug\EventExample2.csproj.CoreCompileInputs.cache
+D:\c#练习项目\EventExample\EventExample2\obj\Debug\EventExample2.exe
+D:\c#练习项目\EventExample\EventExample2\obj\Debug\EventExample2.pdb
